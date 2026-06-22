@@ -1,0 +1,34 @@
+{
+  "pack": "Sweeps visual assets pack",
+  "style": "pokie-inspired, Australian race-night, non-branded",
+  "recommended_app_folder": "data/web_assets/",
+  "theme": [
+    "background_1920x1080.png",
+    "badge_bolter.png",
+    "badge_favourite.png",
+    "badge_roughie.png",
+    "badge_well_fancied.png",
+    "button_draw_next.png",
+    "button_enable_sound.png",
+    "button_reset.png",
+    "cabinet_overlay_1920x1080.png",
+    "flemington_sweeps_logo.png",
+    "reel_frame_large.png",
+    "reel_glass_highlight.png",
+    "theme_tokens.css"
+  ],
+  "textures": [
+    "brushed_gold.png",
+    "dark_chrome.png",
+    "red_velvet.png"
+  ],
+  "sprites": [
+    "led_glow_blue.png",
+    "led_glow_gold.png",
+    "led_glow_green.png",
+    "led_glow_pink.png",
+    "spark_gold.png",
+    "spark_pink.png",
+    "spark_white.png"
+  ]
+}

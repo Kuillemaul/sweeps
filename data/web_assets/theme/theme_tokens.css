@@ -1,0 +1,13 @@
+:root {
+  --sweeps-bg: url('/assets/theme/background_1920x1080.png');
+  --sweeps-cabinet: url('/assets/theme/cabinet_overlay_1920x1080.png');
+  --sweeps-gold: #f5cd58;
+  --sweeps-pink: #dc287e;
+  --sweeps-blue: #52ceff;
+  --sweeps-panel: rgba(12, 10, 22, 0.86);
+}
+
+/* Suggested use:
+body { background-image: var(--sweeps-bg); background-size: cover; }
+.cabinet-overlay { background-image: var(--sweeps-cabinet); pointer-events:none; }
+*/
